@@ -15,12 +15,16 @@ The goal is to answer correctly to as many questions possible (about amount of f
 
 GAME SCREENSHOTS
 Learning Module:
-![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot1.png)
+![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot1.JPG)
+
 Choosing a level:
-![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot2.png)
+![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot2.JPG)
+
 Quiz Level 1:
-![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot3.png)
+![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot3.JPG)
+
 Quiz Level 2:
-![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot4.png)
+![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot4.JPG)
+
 Quiz Level 3:
-![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot5.png)
+![alt text](https://raw.githubusercontent.com/Mickanie/NumbersQuizGame/master/screenshots/screenshot5.JPG)
