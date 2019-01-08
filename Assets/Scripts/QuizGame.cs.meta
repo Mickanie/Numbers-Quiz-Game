@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 2b79c2f234dc65c40af461b1b126594a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questionText: {instanceID: 0}
+  - finalResultPanel: {instanceID: 0}
+  - resultText: {instanceID: 0}
+  - feedbackText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - questionButton: {instanceID: 0}
+  - one: {fileID: 21300000, guid: 52366a5c15516c546aa8e8e30ab75a13, type: 3}
+  - two: {fileID: 21300000, guid: 3690c2bd29a263044a1e12842c01c915, type: 3}
+  - three: {fileID: 21300000, guid: daf631aef83a34147b5e5d39cd8f1492, type: 3}
+  - four: {fileID: 21300000, guid: 30975f015f23afa40a70b2bb3ed2e8cc, type: 3}
+  - five: {fileID: 21300000, guid: 57a173ca780648a4f99605e7c082c5b0, type: 3}
+  - six: {fileID: 21300000, guid: 44f6e9c71755dd844a4a6850b4a2cf3f, type: 3}
+  - seven: {fileID: 21300000, guid: d4ae3e1f48ecea34993e086683e86254, type: 3}
+  - eight: {fileID: 21300000, guid: a2653e0f5d7c943429c6d4d12d34939b, type: 3}
+  - nine: {fileID: 21300000, guid: 35227f02c3326eb4da66072c289c469e, type: 3}
+  - ten: {fileID: 21300000, guid: 4c4c278c324714f4c8409e94392126c6, type: 3}
+  - eleven: {fileID: 21300000, guid: 17617079bf5fed34b89f3c92aa082f0c, type: 3}
+  - twelve: {fileID: 21300000, guid: 3bdba2454ac11ab47905098d02974868, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
